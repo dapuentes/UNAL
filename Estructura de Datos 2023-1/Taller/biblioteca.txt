@@ -1,0 +1,80 @@
+"1984" - George Orwell - Ciencia ficción
+"Fahrenheit 451" - Ray Bradbury - Ciencia ficción
+"Neuromante" - William Gibson - Ciencia ficción
+"Dune" - Frank Herbert - Ciencia ficción
+"El fin de la eternidad" - Isaac Asimov - Ciencia ficción
+"Fundación" - Isaac Asimov - Ciencia ficción
+"Un mundo feliz" - Aldous Huxley - Ciencia ficción
+"El juego de Ender" - Orson Scott Card - Ciencia ficción
+"Orgullo y prejuicio" - Jane Austen - Clásico
+"Mujercitas" - Louisa May Alcott - Clásico
+"Crimen y castigo" - Fyodor Dostoyevsky - Clásico
+"Moby-Dick" - Herman Melville - Clásico
+"Don Quijote de la Mancha" - Miguel de Cervantes Saavedra - Clásico
+"Los miserables" - Victor Hugo - Clásico
+"Jane Eyre" - Charlotte Brontë - Clásico
+"Drácula" - Bram Stoker - Clásico
+"Cien años de soledad" - Gabriel García Márquez - Realismo mágico
+"El amor en los tiempos del cólera" - Gabriel García Márquez - Realismo mágico
+"Pedro Páramo" - Juan Rulfo - Realismo mágico
+"Aura" - Carlos Fuentes - Realismo mágico
+"La casa de los espíritus" - Isabel Allende - Realismo mágico
+"Como agua para chocolate" - Laura Esquivel - Realismo mágico
+"Rayuela" - Julio Cortázar - Realismo mágico
+"El Gran Gatsby" - F. Scott Fitzgerald - Drama
+"En el camino" - Jack Kerouac - Drama
+"Hamlet" - William Shakespeare - Drama
+"Crónica de una muerte anunciada" - Gabriel García Márquez - Drama
+"El retrato de Dorian Gray" - Oscar Wilde - Drama
+"Las uvas de la ira" - John Steinbeck - Drama
+"Los hermanos Karamazov" - Fyodor Dostoyevsky - Drama
+"El señor de los anillos" - J.R.R. Tolkien - Fantasía
+"Harry Potter y la piedra filosofal" - J.K. Rowling - Fantasía
+"Las crónicas de Narnia" - C.S. Lewis - Fantasía
+"El nombre del viento" - Patrick Rothfuss - Fantasía
+"American Gods" - Neil Gaiman - Fantasía
+"El mago de Oz" - L. Frank Baum - Fantasía
+"Los pilares de la Tierra" - Ken Follett - Histórico
+"El código Da Vinci" - Dan Brown - Histórico
+"Yo, Claudio" - Robert Graves - Histórico
+"Guerra y paz" - Leo Tolstoy - Histórico
+"La sombra del viento" - Carlos Ruiz Zafón - Histórico
+"El guardián entre el centeno" - J.D. Salinger - Coming of Age
+"Bajo la misma estrella" - John Green - Coming of Age
+"Las ventajas de ser un marginado" - Stephen Chbosky - Coming of Age
+"El alquimista" - Paulo Coelho - Ficción espiritual
+"El profeta" - Kahlil Gibran - Ficción espiritual
+"Siddhartha" - Hermann Hesse - Ficción espiritual
+"It" - Stephen King - Terror
+"El resplandor" - Stephen King - Terror
+"Drácula" - Bram Stoker - Terror
+"El código Da Vinci" - Dan Brown - Misterio
+"El nombre de la rosa" - Umberto Eco - Misterio
+"El curioso incidente del perro a medianoche" - Mark Haddon - Misterio
+"El hobbit" - J.R.R. Tolkien - Aventura
+"La isla del tesoro" - Robert Louis Stevenson - Aventura
+"Robinson Crusoe" - Daniel Defoe - Aventura
+"El retrato de Dorian Gray" - Oscar Wilde - Clásico de terror
+"Frankenstein" - Mary Shelley - Clásico de terror
+"El extraño caso del Dr. Jekyll y Mr. Hyde" - Robert Louis Stevenson - Clásico de terror
+"Los juegos del hambre" - Suzanne Collins - Distopía
+"El corredor del laberinto" - James Dashner - Distopía
+"1984" - George Orwell - Distopía
+"Los hombres que no amaban a las mujeres" - Stieg Larsson - Thriller
+"El silencio de los corderos" - Thomas Harris - Thriller
+"Perdida" - Gillian Flynn - Thriller
+"El amor en los tiempos del cólera" - Gabriel García Márquez - Romance
+"Orgullo y prejuicio" - Jane Austen - Romance
+"Como agua para chocolate" - Laura Esquivel - Romance
+"Los juegos del hambre" - Suzanne Collins - Ciencia ficción distópica
+"Divergente" - Veronica Roth - Ciencia ficción distópica
+"Ready Player One" - Ernest Cline - Ciencia ficción distópica
+"El guardián entre el centeno" - J.D. Salinger - Coming of Age
+"Las ventajas de ser un marginado" - Stephen Chbosky - Coming of Age
+"Bajo la misma estrella" - John Green - Coming of Age
+"El código Da Vinci" - Dan Brown - Misterio religioso
+"Ángeles y demonios" - Dan Brown - Misterio religioso
+"El nombre de la rosa" - Umberto Eco - Misterio religioso
+"El resplandor" - Stephen King - Terror sobrenatural
+"El exorcista" - William Peter Blatty - Terror sobrenatural
+"El cuervo" - Edgar Allan Poe - Terror sobrenatural
